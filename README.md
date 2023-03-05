@@ -1,5 +1,5 @@
 ## Jogo-da-cobrinha 🐍
-joga da cobrinha usando Javascript
+jogo da cobrinha usando Javascript
 <br><br>
 Link: https://caioalvesdev.github.io/Jogo-da-cobrinha/
 <p>
